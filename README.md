@@ -1,7 +1,9 @@
 # zsh-taskline
-custom oh-my-zsh plugin
-This plugin adds aliases for routine time tracking and managing TODOs in task line (tl) [taskline](https://snapcraft.io/taskline)
- link
+## custom oh-my-zsh plugin
+### This plugin adds aliases for routine time tracking and managing TODOs in task line (tl) [taskline](https://snapcraft.io/taskline)
+ Not fully rewrites functionality of tl, but only extends and simplify usage.
+ ### 
+
 
 # installation
 
