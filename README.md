@@ -1,4 +1,4 @@
-# zsh-web-open
+# zsh-taskline
 custom oh-my-zsh plugin
 This plugin adds aliases for routine time tracking and managing TODOs in task line (tl) [taskline](https://snapcraft.io/taskline)
  link
